@@ -8,11 +8,15 @@ body p, h2, h3, h4, h5, a, li {
 
 .main {
 	margin-top: 100px;
-	width:240px;
+	width:350px;
 	margin:0 auto;
 	text-align:left;
 }
 
 .main p {
-	font-size: 15px;
+	font-size: 22px;
+}
+
+.main li {
+	font-size: 18px;
 }
