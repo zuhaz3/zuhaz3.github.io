@@ -3,7 +3,7 @@ html,body {
 }
 
 body p, h2, h3, h4, h5, a, li {
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Frank Ruhl Libre', 'Josefin Sans', sans-serif;
 }
 
 .main {
@@ -19,4 +19,9 @@ body p, h2, h3, h4, h5, a, li {
 
 .main li {
 	font-size: 18px;
+}
+
+.writing p {
+	font-size: 22px;
+	margin-top: 30px;
 }
